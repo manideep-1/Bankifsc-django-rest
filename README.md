@@ -1,4 +1,4 @@
-## Django-rest-ifsc
+## Bankifsc-django-rest
 
 A RESTful API written in Django to get any branch details using ifsc code and find all the branches of a bank in a Indian city.
 
@@ -10,7 +10,7 @@ This project was built with python +3.5
 $ python3 -m venv env
 $ env\Scripts\activate
 $ pip install -r requirements.txt
-$ cd django-rest-ifsc
+$ cd Bankifsc-django-rest
 $ python manage.py runserver
 ```
 
